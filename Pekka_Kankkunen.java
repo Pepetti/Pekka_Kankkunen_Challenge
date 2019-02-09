@@ -11,7 +11,7 @@ public class MattiNykanen {
         JFrame.setDefaultLookAndFeelDecorated(true);
 
         //Create and set up the window.
-        JFrame frame = new JFrame("MattiNykanenTheGame");
+        JFrame frame = new JFrame("Pekka Kankkunen Challenge");
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 
         //Add the ubiquitous "Hello World" label.
